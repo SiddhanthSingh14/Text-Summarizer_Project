@@ -134,11 +134,11 @@ This project was trained using the SAMSum Dataset, a dialogue summarization data
 
 ### Home Page
 
-![Home Page](Home.png)
+![Home Page](screenshots/Home-page.png)
 
 ### Generated Summary
 
-![Generated Summary](Summarized.png)
+![Generated Summary](screenshots/Generated-Summary.png)
 
 ---
 
